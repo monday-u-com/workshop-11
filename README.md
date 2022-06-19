@@ -45,7 +45,7 @@ Implement either Toggle or Accordion
 3. Before implementing your own component, play around with the example and storybook (especially the controls tab).
 
 ## Avatar - [Figma Design](https://www.figma.com/file/rEZBYBTa8dJyjHthW4jETo/Avatar-(Copy))
-***
+
 The avatar component ss a graphical representation of a person through a profile picture, image, icon, or set of initials.
 
 The required stories are:
@@ -63,7 +63,7 @@ The required stories are:
 
 
 ## Loader - [Figma Design](https://www.figma.com/file/o0iwQJFTX0ytpNhTYj4nEi/Circular-loader-(Copy)?node-id=0%3A1)
-***
+
 The Circular loader indicates to user waiting state.
 
 Use this [Loader example](https://codepen.io/orrgottl/pen/JjpVvNB) - as a reference, notice that this is a pure html/css implementation to the loader, so some React tweaks.
@@ -77,7 +77,6 @@ The require stories are:
 ***Variant*** - It has two different mode - with background and without background.
 
 ## Toggle (Bonus) - [Figma Design](https://www.figma.com/file/ho4Fo3Mt9OsUkSV96MKFNx/Toggle-(Copy)?node-id=0%3A1)
-***
 
 Allow users to turn an single option on or off. They are usually used to activate or deactivate a specific setting.
 
