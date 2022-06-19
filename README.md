@@ -1,5 +1,5 @@
 # Workshop 11 - Scaling UI Development
-***
+
 In order to create more isolated core components we will focus this workshop on creating our very own core library.
 We will do so with the help of [Storybook](https://storybook.js.org/).
 We want to focus on building isolated components with good and consistent props.
