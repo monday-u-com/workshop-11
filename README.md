@@ -40,7 +40,8 @@ It will show you all of the required states and behaviours
 2. Try to use the same naming convention in your prop - i.e `size` vs `sizes` or `disabled` vs `isDisabled`
 3. Before implementing your own component, play around with the example and storybook (especially the controls tab).
 
-### Avatar component
+## Avatar
+***
 The avatar component ss a graphical representation of a person through a profile picture, image, icon, or set of initials.
 
 The required stories are:
@@ -57,7 +58,8 @@ The required stories are:
 ***Disabled*** - The Avatar component can be in a disabled mode
 
 
-### Loader component
+## Loader
+***
 The Circular loader indicates to user waiting state.
 
 Use this [Loader example](https://codepen.io/orrgottl/pen/JjpVvNB) - as a reference, notice that this is a pure html/css implementation to the loader, so some React tweaks.
@@ -69,7 +71,8 @@ The require stories are:
 
 ***Variant*** - It has two different mode - with background and without background.
 
-### Toggle
+## Toggle
+***
 Allow users to turn an single option on or off. They are usually used to activate or deactivate a specific setting.
 
 ####Implementation
