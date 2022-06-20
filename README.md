@@ -72,7 +72,7 @@ The require stories are:
 
 ***Sizes*** - The loader has 4 different sizes.
 
-***States*** - The loader has 4 different states - the stoke color.
+***States*** - The loader has 4 different states - the stroke color.
 
 ***Variant*** - It has two different mode - with background and without background.
 
