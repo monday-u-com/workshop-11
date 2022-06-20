@@ -139,6 +139,26 @@ you can see usage example in `Button.css`
 * Think about the default component, how the component behaviours when no props is being pass
 * Create your component
 * See the quick feedback loop in the storybook
+  
+Example for a generic component structure:
+
+```jsx
+
+import PropTypes from "prop-types";
+
+function MyComponent({ prop1 = true, prop2 = "some string", children }) {
+    return <div>
+      <h1>My Awesome Component</h1>
+      {children}
+    </div>
+}
+
+MyComponent.propTypes = {
+    prop1: PropTypes.bool,
+    prop2: PropTypes.string,
+    children: PropTypes.element
+}
+```
 
 #### Step 4 - add different logic
 * Add additional logic for each component
