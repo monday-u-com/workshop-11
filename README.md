@@ -33,7 +33,7 @@ You should get this tab to open on chrome
 ## Workshop Instructions
 You need to implement
 1. Avatar and Loader component
-2. stories according to the figma design.
+2. stories according to the figma design (see each component section for a more detailed explenation on which story to implement)
 
 ****Bonus****:
 Implement either Toggle or Accordion
